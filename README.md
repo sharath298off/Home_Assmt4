@@ -1,8 +1,8 @@
 # CS5720: Neural Networks and Deep Learning  
 ### Home Assignment 4 – Summer 2025  
 **University of Central Missouri**  
-**Student Name:** Naidu Gudivada
-**Student ID:** 700773264
+**Student Name:** sharath chandra seriyala
+**Student ID:** 700776646
 ----------------------------------------------------------------------------
 ## 🔍 Assignment Overview
 
